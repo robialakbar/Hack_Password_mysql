@@ -6,3 +6,6 @@
 
 # Install Laravel Subdomain Hostinger
 https://www.youtube.com/watch?v=eCqb6oNNWsg
+
+# MENJALANKAN LARAVEL DI XAMPP LOCAL
+https://www.youtube.com/watch?v=m_a7spwPRzo
