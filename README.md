@@ -7,6 +7,9 @@
 # Install Laravel Subdomain Hostinger
 https://www.youtube.com/watch?v=eCqb6oNNWsg
 
+# UBAH VERSI PHP DI  Hostinger
+https://support.hostinger.co.id/id/articles/5105849-cara-mengubah-versi-php-untuk-subfolder-atau-subdomain
+
 # Install Laravel di CPANEL
 https://www.youtube.com/watch?v=8izLXvQw_Z8&t=90s
 
