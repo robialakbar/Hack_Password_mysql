@@ -16,5 +16,11 @@ https://www.youtube.com/watch?v=8izLXvQw_Z8&t=90s
 # MENJALANKAN LARAVEL DI XAMPP LOCAL
 https://www.youtube.com/watch?v=m_a7spwPRzo
 
-# password ssh
+# PASSWORD SSH
 macanasia737577
+
+# MAINTENANCE ITEM LIST
+Checking Performance Test, Uptime Monitoring,Bug Checking
+Page loading Stable Cheking, Clear Cache and temporary memory, Speed Up access, 
+Spamming Detection, Hacking Detection, Overload data monitoring, Back Up Data rutin, Load Page Monitoring, Broken file and link cheking
+inode kapasiti checking,Server dan Domain Control,
