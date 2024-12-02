@@ -16,8 +16,6 @@ https://www.youtube.com/watch?v=8izLXvQw_Z8&t=90s
 # MENJALANKAN LARAVEL DI XAMPP LOCAL
 https://www.youtube.com/watch?v=m_a7spwPRzo
 
-# PASSWORD SSH
-macanasia737577
 
 # MAINTENANCE ITEM LIST
 Checking Performance Test, Uptime Monitoring,Bug Checking
