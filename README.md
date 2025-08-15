@@ -12,10 +12,10 @@ https://support.hostinger.com/id/articles/4047803-cara-mengubah-versi-php-untuk-
 
 Buat File .htaccess, dan isi script berikut :
 
-<FilesMatch "\.(php4|php5|php3|php2|php|phtml)$">
+" <FilesMatch "\.(php4|php5|php3|php2|php|phtml)$">
 SetHandler application/x-lsphp71
 </FilesMatch>
-
+"
 Setting Versi Php nya di atas tersebut..
 
 
