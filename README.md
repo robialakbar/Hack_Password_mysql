@@ -10,6 +10,15 @@ https://www.youtube.com/watch?v=eCqb6oNNWsg
 # UBAH VERSI PHP DI  Hostinger
 https://support.hostinger.com/id/articles/4047803-cara-mengubah-versi-php-untuk-subfolder-atau-subdomain
 
+Buat File .htaccess, dan isi script berikut :
+
+<FilesMatch "\.(php4|php5|php3|php2|php|phtml)$">
+SetHandler application/x-lsphp71
+</FilesMatch>
+
+Setting Versi Php nya di atas tersebut..
+
+
 # Install Laravel di CPANEL
 https://www.youtube.com/watch?v=8izLXvQw_Z8&t=90s
 
